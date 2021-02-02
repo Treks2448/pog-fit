@@ -1,9 +1,10 @@
 import react from 'react';
+import MealTab from './meal-tab/MealTab';
 
 function App() {
     return (
         <div>
-            Application elements go here...
+            <MealTab />
         </div>
     );
 }
